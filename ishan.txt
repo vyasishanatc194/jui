@@ -1,0 +1,9 @@
+This is Ishan Vyas
+This is HArsha Shah 
+
+git update-index --no-assume-unchanged ishan.txt
+
+git update-index --assume-unchanged <filename>
+
+
+james Mehata
